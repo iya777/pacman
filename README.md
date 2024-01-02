@@ -1,6 +1,6 @@
 # Tugas Besar PBO Kelompok 1 : Pacman Game
 Sebuah projek permainan pacman yang dibuat dalam bahasa Java.\
-Perincian Fitur:
+Berikut ini adalah fitur-fitur yang tersedia pada aplikasi permainan pacman ini:
 - Pacman & Ghost (Blinky, Inky, Pinky, Clyde)
 - Map Levelling System (excel file)
 - Score System (Metric Scoring: Time yang diperoleh dalam menyelesaikan suatu level)
