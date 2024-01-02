@@ -1,4 +1,4 @@
-# Tugas Besar PBO Kelompok 1 : Projek Pacman
+# Tugas Besar PBO Kelompok 1 : Pacman Game
 Sebuah projek permainan pacman yang dibuat dalam bahasa Java.\
 Perincian Fitur:
 - Pacman & Ghost (Blinky, Inky, Pinky, Clyde)
