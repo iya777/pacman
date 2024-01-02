@@ -10,8 +10,7 @@ Berikut ini adalah fitur-fitur yang tersedia pada aplikasi permainan pacman ini:
 Requirements:\
 IDE: Apache Netbeans IDE 19\
 Java JDK Version: JDK 20\
-\
-**Berikut adalah cara untuk mengatasi versi JDK yang berbeda:**
+Berikut adalah cara untuk mengatasi versi JDK yang berbeda:
 ![Screenshot](different-jdk-version-tutorial.jpg)
 \
 Saving dilakukan dengan file txt, berikut adalah perinciannya:\
